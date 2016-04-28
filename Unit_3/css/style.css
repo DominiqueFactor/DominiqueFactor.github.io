@@ -1,0 +1,69 @@
+style.css
+
+body{
+	background: #000;
+	background-color: #000;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
+	}
+
+h1{
+	background: #000;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size:24px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	}
+
+	#actioncall{
+		background: #000
+		color: #fff
+		font-family: Arial, sans-serif;
+		size:24px;
+		font-style: normal;
+		font-weight: bold;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+	div{
+		width: 150px;
+		height: 50px;
+		border: 2px solid white;
+		margin: 20px;
+	}
+
+	#slogan{
+		background: #000
+		color: #fff
+		font-family: Arial, sans-serif;
+		size:24px;
+		font-style: italic;
+		font-weight: bold;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+	}
+
+p{
+	background: #000
+	color: #fff
+	font-family: Arial, sans-serif;
+	size:12px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
+hr}
+	width: 600px; 
+}
