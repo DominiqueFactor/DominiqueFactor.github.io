@@ -24,6 +24,30 @@ h1{
 	text-transform: uppercase;
 	}
 
+h2{
+	background: #000;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size:20px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;	
+	}
+
+h3{
+	background: #000;
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size:18px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;		
+}
+
 	#actioncall{
 		background: #000
 		color: #fff
@@ -55,8 +79,8 @@ h1{
 	}
 
 p{
-	background: #000
-	color: #fff
+	background: #000;
+	color: #fff;
 	font-family: Arial, sans-serif;
 	size:12px;
 	font-style: italic;
@@ -66,4 +90,68 @@ p{
 	text-transform: none;
 hr}
 	width: 600px; 
+}
+<div>
+"Follow Me!"{
+	background: #9C9997;
+	color: #FAF6F5;
+	font-family: Arial, sans-serif;
+	size:14px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform:none;
+	Padding: 2em 3em 2em 3em
+	margin: "auto";
+	rgba(100,150,150,.5)
+}
+"Pre-Order The Book!"{
+background: #9C9997;
+	color: #FAF6F5;
+	font-family: Arial, sans-serif;
+	size:14px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform:none;
+	Padding: 2em 3em 2em 3em
+	Margin: "auto";
+	rgba(100,150,150,.5)	
+}
+"Get Access!"{
+	background: #9C9997;
+	color: #FAF6F5;
+	font-family: Arial, sans-serif;
+	size:14px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform:none;
+	Padding: 2em 3em 2em 3em
+	Margin: "auto";
+	rgba(100,150,150,.5)
+}
+"Download Your Gift!"{
+	background: #9C9997;
+	color: #FAF6F5;
+	font-family: Arial, sans-serif;
+	size:14px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	text-transform:none;
+	Padding: 2em 3em 2em 3em
+	Margin: "auto";
+	rgba(100,150,150,.5)
+}
+</div>
+
+span{
+	font-variant: uppercase;
+	font-family: Futura Light BT; Tahoma;
+	letter-spacing: .25em; 
 }
