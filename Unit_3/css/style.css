@@ -1,5 +1,30 @@
 style.css
 
+nav{
+	background-color:#514E4E;
+	font-family:Arial, sans-serif;
+}
+a{
+	background-color: #514E4E;
+	color:white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 28px; 
+}
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+a:hover{
+	background-color: #AE8F13;
+}
+
 body{
 	background: #000;
 	background-color: #000;
@@ -10,7 +35,7 @@ body{
 	text-align: left;
 	text-decoration: none;
 	text-transform: none;
-	}
+}
 
 h1{
 	background: #000;
@@ -22,7 +47,7 @@ h1{
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
-	}
+}
 
 h2{
 	background: #000;
@@ -34,7 +59,7 @@ h2{
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;	
-	}
+}
 
 h3{
 	background: #000;
@@ -58,13 +83,14 @@ h3{
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
-	}
+}
+
 	div{
 		width: 150px;
 		height: 50px;
 		border: 2px solid white;
 		margin: 20px;
-	}
+}
 
 	#slogan{
 		background: #000
@@ -91,7 +117,9 @@ p{
 hr}
 	width: 600px; 
 }
-<div>
+
+div{
+"signup"
 "Follow Me!"{
 	background: #9C9997;
 	color: #FAF6F5;
@@ -106,8 +134,9 @@ hr}
 	margin: "auto";
 	rgba(100,150,150,.5)
 }
+
 "Pre-Order The Book!"{
-background: #9C9997;
+	background: #9C9997;
 	color: #FAF6F5;
 	font-family: Arial, sans-serif;
 	size:14px;
@@ -120,6 +149,7 @@ background: #9C9997;
 	Margin: "auto";
 	rgba(100,150,150,.5)	
 }
+
 "Get Access!"{
 	background: #9C9997;
 	color: #FAF6F5;
@@ -134,6 +164,7 @@ background: #9C9997;
 	Margin: "auto";
 	rgba(100,150,150,.5)
 }
+
 "Download Your Gift!"{
 	background: #9C9997;
 	color: #FAF6F5;
@@ -148,10 +179,38 @@ background: #9C9997;
 	Margin: "auto";
 	rgba(100,150,150,.5)
 }
-</div>
+div
+}
+
+div{
+
+#content{
+	float: left;
+	width: 400px;
+	padding: 20px 0;
+	margin: 0 0 0 30px;
+}
+
+aside{
+	float: right;
+	font-size: :14px;
+	width: 400px;
+	padding: 20px 0;
+	margin: 0 20px 0 0;
+}	
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "media";
+	clear: both;
+	height: 0;
+}
 
 span{
 	font-variant: uppercase;
 	font-family: Futura Light BT; Tahoma;
 	letter-spacing: .25em; 
 }
+
