@@ -4,6 +4,7 @@ nav{
 	background-color:#514E4E;
 	font-family:Arial, sans-serif;
 }
+
 a{
 	background-color: #514E4E;
 	color:white;
@@ -12,6 +13,7 @@ a{
 	float: left;
 	padding: 28px; 
 }
+
 .clearfix:after{
 	visibility: hidden;
 	display: block;
