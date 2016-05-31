@@ -23,15 +23,6 @@ a{
 	padding: 28px; 
 }
 
-.clearfix:after{
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
-
 a:hover{
 	background-color: #AE8F13;
 }
@@ -119,7 +110,7 @@ p{
 	background: #000;
 	color: #fff;
 	font-family: Arial, sans-serif;
-	size:12px;
+	size:16px;
 	font-style: italic;
 	font-weight: bold;
 	text-align: left;
@@ -190,9 +181,6 @@ div{
 	Margin: "auto";
 	rgba(100,150,150,.5)
 }
-div
-}
-
 
 span{
 	font-variant: uppercase;
