@@ -4,9 +4,17 @@ nav{
 	font-family:Arial, sans-serif;
 }
 
+	#cta{
+		background-color: 
+		color: #B2AEAE;
+		text-decoration: none;
+		display: block;
+		float: left;
+		padding: 50px;
+	}
 a{
 	background-color: #514E4E;
-	color:white;
+	color: white;
 	text-decoration: none;
 	display: block;
 	float: left;
@@ -183,7 +191,7 @@ div{
 div
 }
 
-div{
+div "about"{
 
 #content{
 	float: left;
