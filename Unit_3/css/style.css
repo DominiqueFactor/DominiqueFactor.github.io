@@ -2,6 +2,8 @@
 nav{
 	background-color:#514E4E;
 	font-family:Arial, sans-serif;
+	display: block;
+	float: center;
 }
 
 	#cta{
