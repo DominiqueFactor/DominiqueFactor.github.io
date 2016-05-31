@@ -1,28 +1,20 @@
-
-nav{
-	background-color:#514E4E;
-	font-family:Arial, sans-serif;
-	display: block;
-	float: center;
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background:black;
+	color:rgba(255,255,255,.95);
+	font-size:16px;
+	font-family:helvetica, arial, sans-serif;
 }
-
-	#cta{
-		background-color: 
-		color: #B2AEAE;
-		text-decoration: none;
-		display: block;
-		float: left;
-		padding: 200px;
-	}
-a{
-	background-color: #514E4E;
-	color: white;
-	text-decoration: none;
-	display: block;
-	float: left;
-	padding: 28px; 
+section {
+	padding:5em 0;
 }
-
+p {
+	margin-top:1em;
+}
+img {
+	display:block;
+	width:100%;
+}
 .clearfix:after{
 	visibility: hidden;
 	display: block;
@@ -31,172 +23,3 @@ a{
 	height: 0;
 	font-size: 0;
 }
-
-a:hover{
-	background-color: #AE8F13;
-}
-
-body{
-	background: #000;
-	background-color: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size: 12px;
-	font-weight: 400;
-	text-align: left;
-	text-decoration: none;
-	text-transform: none;
-}
-
-h1{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size:24px;
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-h2{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size:20px;
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;	
-}
-
-h3{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size:18px;
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;		
-}
-
-	#actioncall{
-		background: #000
-		color: #fff
-		font-family: Arial, sans-serif;
-		size:24px;
-		font-style: normal;
-		font-weight: bold;
-		text-align: center;
-		text-decoration: none;
-		text-transform: uppercase;
-}
-
-	div{
-		width: 150px;
-		height: 50px;
-		border: 2px solid white;
-		margin: 20px;
-}
-
-	#slogan{
-		background: #000
-		color: #fff
-		font-family: Arial, sans-serif;
-		size:24px;
-		font-style: italic;
-		font-weight: bold;
-		text-align: center;
-		text-decoration: none;
-		text-transform: uppercase;
-	}
-
-p{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	size:12px;
-	font-style: italic;
-	font-weight: bold;
-	text-align: left;
-	text-decoration: none;
-	text-transform: none;
-hr}
-	width: 600px; 
-}
-
-div{
-"signup"
-"Follow Me!"{
-	background: #9C9997;
-	color: #FAF6F5;
-	font-family: Arial, sans-serif;
-	size:14px;
-	font-style: italic;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform:none;
-	Padding: 2em 3em 2em 3em
-	margin: "auto";
-	rgba(100,150,150,.5)
-}
-
-"Pre-Order The Book!"{
-	background: #9C9997;
-	color: #FAF6F5;
-	font-family: Arial, sans-serif;
-	size:14px;
-	font-style: italic;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform:none;
-	Padding: 2em 3em 2em 3em
-	Margin: "auto";
-	rgba(100,150,150,.5)	
-}
-
-"Get Access!"{
-	background: #9C9997;
-	color: #FAF6F5;
-	font-family: Arial, sans-serif;
-	size:14px;
-	font-style: italic;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform:none;
-	Padding: 2em 3em 2em 3em
-	Margin: "auto";
-	rgba(100,150,150,.5)
-}
-
-"Download Your Gift!"{
-	background: #9C9997;
-	color: #FAF6F5;
-	font-family: Arial, sans-serif;
-	size:14px;
-	font-style: italic;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform:none;
-	Padding: 2em 3em 2em 3em
-	Margin: "auto";
-	rgba(100,150,150,.5)
-}
-div
-}
-
-
-span{
-	font-variant: uppercase;
-	font-family: Futura Light BT; Tahoma;
-	letter-spacing: .25em; 
-}
-
