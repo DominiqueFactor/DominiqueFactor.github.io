@@ -12,7 +12,7 @@ nav{
 		text-decoration: none;
 		display: block;
 		float: left;
-		padding: 100px;
+		padding: 200px;
 	}
 a{
 	background-color: #514E4E;
@@ -193,31 +193,6 @@ div{
 div
 }
 
-div "about"{
-
-#content{
-	float: left;
-	width: 400px;
-	padding: 20px 0;
-	margin: 0 0 0 30px;
-}
-
-aside{
-	float: right;
-	font-size: :14px;
-	width: 400px;
-	padding: 20px 0;
-	margin: 0 20px 0 0;
-}	
-
-.clearfix:after{
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "media";
-	clear: both;
-	height: 0;
-}
 
 span{
 	font-variant: uppercase;
