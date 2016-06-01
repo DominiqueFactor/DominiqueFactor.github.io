@@ -4,7 +4,11 @@ body {
 	background:black;
 	color:rgba(255,255,255,.95);
 	font-size:16px;
-	font-family:helvetica, arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	text-align: left;
+	text-decoration: none;
+	text-transform: none;
 }
 
 section {
@@ -15,8 +19,30 @@ p {
 	margin-top:1em;
 }
 
-h1 h2 h3 {
-	color: rgba(255,255,255, .95);
+h1, h2, h3 {
+	color: rgba(255,255,255,.95);
+	font-family: Arial, sans-serif;
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+h2{
+	font-size: 40px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;	
+}
+
+h3{
+	font-size: 24px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;		
 }
 
 img {
@@ -29,53 +55,12 @@ a:hover{
 	background-color: #AE8F13;
 }
 
-body{
-	background: #000;
-	background-color: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size: 12px;
-	font-weight: 400;
-	text-align: left;
-	text-decoration: none;
-	text-transform: none;
-}
 
-h1{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size:24px;
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;
-}
-
-h2{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size:20px;
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;	
-}
 
 h3{
-	background: #000;
-	color: #fff;
-	font-family: Arial, sans-serif;
-	font-size:18px;
-	font-style: normal;
-	font-weight: bold;
-	text-align: center;
-	text-decoration: none;
-	text-transform: uppercase;		
-}
+	
+	
+	
 
 	#actioncall{
 		background: #000
