@@ -1,16 +1,24 @@
 * { margin:0; padding:0; box-sizing:border-box; }
+
 body {
 	background:black;
 	color:rgba(255,255,255,.95);
 	font-size:16px;
 	font-family:helvetica, arial, sans-serif;
 }
+
 section {
 	padding:5em 0;
 }
+
 p {
 	margin-top:1em;
 }
+
+h1 h2 h3 {
+	color: rgba(255,255,255, .95);
+}
+
 img {
 	display:block;
 	width:100%;
